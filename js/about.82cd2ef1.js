@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktodo_vuetify"]=self["webpackChunktodo_vuetify"]||[]).push([[594],{4186:function(t,u,n){n.r(u),n.d(u,{default:function(){return d}});var e=n(641);const a={class:"about"},o=(0,e.Lk)("h1",null,"This is an about page",-1),r=[o];function s(t,u){return(0,e.uX)(),(0,e.CE)("div",a,r)}var c=n(6262);const i={},f=(0,c.A)(i,[["render",s]]);var d=f}}]);
+//# sourceMappingURL=about.82cd2ef1.js.map
